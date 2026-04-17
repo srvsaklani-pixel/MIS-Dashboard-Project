@@ -21,5 +21,6 @@ The dashboard improves visibility of performance metrics and enables quick decis
 
 ## Preview
 
-<img width="1035" height="691" alt="Dashboard" src="https://github.com/user-attachments/assets/af17b2d3-829c-481a-a53f-e3a498d2d1c7" />
+<img width="966" height="767" alt="Dashboard" src="https://github.com/user-attachments/assets/626437d4-0c23-42ca-8a0f-0586e9cf4029" />
+
 
